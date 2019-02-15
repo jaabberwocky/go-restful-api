@@ -1,3 +1,3 @@
 # Simple Golang RESTful API
 
-Simple implementation of API.
+Toy example to experiment with RESTful APIs in Golang.
